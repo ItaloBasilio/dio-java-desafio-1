@@ -19,6 +19,6 @@ public class ContaTerminal {
         System.out.println("Por favor, qual o valor do seu depósito ?");
         Double deposito = scanner.nextDouble();
 
-        System.out.println("Olá, " + nomeSobrenome + ", obrigado por criar uma conta em nosso banco. Sua agência é: " + agencia + ", conta: " + conta + " e seu saldo de " + deposito + " já está disponível para saque.");
+        System.out.println("Olá, " + nomeSobrenome + ", obrigado por criar uma conta em nosso banco. Sua agência é: " + agencia + ", conta: " + conta + " e seu saldo de R$ " + deposito + " já está disponível para saque.");
     }
 }
