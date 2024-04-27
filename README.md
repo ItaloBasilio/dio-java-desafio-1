@@ -7,4 +7,6 @@ Projeto referente ao desafio do Bootcamp Java 2024 - DIO em parceria com o Santa
 
 Java<br><br><br>
 
+<img src="https://github.com/ItaloBasilio/dio-java-desafio-1/blob/master/image.png?raw=true" >
+
 Ítalo Basilio da Silva.
